@@ -5,7 +5,7 @@ const About = () => {
   return (
     <section
       id="about"
-      className="min-h-screen flex flex-col justify-center items-center px-6"
+      className="min-h-60vh flex flex-col justify-center items-center md:mb-[100px] px-6"
     >
       <motion.h2
         initial={{ opacity: 0, y: -20 }}

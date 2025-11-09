@@ -7,7 +7,7 @@ const Skills = () => {
   return (
     <section
       id="skills"
-      className="min-h-screen flex flex-col justify-center items-center px-6"
+      className="min-h-50vh flex flex-col justify-center items-center px-6 md:mb-[100px]"
     >
       <motion.h2
         initial={{ opacity: 0 }}

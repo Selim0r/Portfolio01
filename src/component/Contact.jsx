@@ -31,7 +31,7 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className="min-h-screen flex flex-col justify-center items-center px-6"
+      className="min-h-60vh flex flex-col justify-center items-center px-6 md:mb-[100px]"
     >
       <motion.h2
         initial={{ opacity: 0 }}

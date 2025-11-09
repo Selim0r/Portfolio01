@@ -49,8 +49,8 @@ const Hero = () => {
           Hire Me
         </a>
         <a
-          href="/MD.SELIM REZA - Resume.pdf"
-          download="MD.SELIM REZA - Resume.pdf"
+          href="/MD_Selim_Reza_CV.pdf"
+          download="MD_Selim_Reza_CV.pdf"
           className="border border-cyan-500 px-6 py-2 rounded-lg hover:bg-cyan-500 hover:text-white transition"
         >
           Download CV
